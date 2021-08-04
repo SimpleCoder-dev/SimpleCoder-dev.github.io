@@ -4,7 +4,7 @@ var element = document.getElementById('btnExplore');
 var all = document.getElementById('all');
 
 element.addEventListener('click',() => {
-  window.scrollTo(0,650);
+  window.scrollTo(0,700);
   
 });
 
