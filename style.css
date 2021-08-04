@@ -98,9 +98,8 @@
 #all{
   position: fixed;
   top: 585px;
-  left: 270px;
-  padding: 20px;
-  background: aqua;
+  left: 280px;
+  padding: 0px;
   width: 10%;
   border-radius:500px;
   text-align: center;
