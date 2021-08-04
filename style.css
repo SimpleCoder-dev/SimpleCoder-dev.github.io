@@ -92,6 +92,18 @@
   width: 70%;
 }
 
+#all{
+  position: fixed;
+  top: 585px;
+  left: 270px;
+  padding: 20px;
+  background: aqua;
+  width: 10%;
+  border-radius:500px;
+  text-align: center;
+  
+}
+
 
  
 
